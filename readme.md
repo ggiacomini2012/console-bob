@@ -10,6 +10,6 @@ In your terminal write: `npm install console-bob`
 
     const { bob } = require("console-bob");
 
-    bob(); // bob
+    bob(); // console.log('bob')
 
-    retuns the word "bob"
+    console: bob
